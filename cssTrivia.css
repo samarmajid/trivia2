@@ -1,0 +1,30 @@
+body{
+background-color: SkyBlue;
+}
+.form-control{
+  width: 300px;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+}
+
+.search_by, #date_btns, #back_home{
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+  display: block;
+}
+
+#search_btn{
+  margin-left: auto;
+  margin-right: auto;
+}
+
+ul {
+  text-align: center;
+  list-style-type: none;
+}
+
+p, h1, #qa{
+  text-align: center;
+}
