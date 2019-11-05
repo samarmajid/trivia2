@@ -1,7 +1,7 @@
 # Trivia Project
 Samar Majid 
 
-Note: The website starts with the html page "htmlTrivia.html" 
+
 
 
 ### About the project 
